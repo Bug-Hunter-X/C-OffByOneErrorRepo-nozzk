@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates a common off-by-one error. The program initializes an integer variable x to 10 and then modifies its value through a pointer. The goal is to illustrate this subtle but important type of error and showcase a solution to avoid it.
